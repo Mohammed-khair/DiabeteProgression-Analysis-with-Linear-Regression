@@ -1,7 +1,5 @@
 # Diabetes Progression Analysis with Linear Regression
 
-![Diabetes Progression Analysis](project_image.jpg)
-
 ## Description
 This repository contains the code for the "Diabetes Progression Analysis with Linear Regression" project. The project aims to explore the relationship between diabetes progression and various patient features using the linear regression technique.
 
